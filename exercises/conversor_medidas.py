@@ -2,7 +2,7 @@
 Inteligência Artificial Aplicada (PUC/PR)
 Disciplina: Raciocínio Algorítmico
 Priscilla Bomfim Domingues
-"""
+""" 
 
 ano_luz = {"pc": 0.31,
            "al": 1,
