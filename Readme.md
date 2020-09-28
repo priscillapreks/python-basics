@@ -1,5 +1,3 @@
-## Day 001  | Today's Progress 
-
 ### Python basics: 
 * Hello, World!
 * Numbers 
